@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Box
+  - InvisibleTrigger
+  - Fance
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - InvisibleTrigger
+  - GroundCheck
+  - Fance
+  - Table
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1147630389
+    locked: 0
+  - name: Fance
+    uniqueID: 125198167
+    locked: 0
+  - name: Ground
+    uniqueID: 1863833455
+    locked: 0
+  - name: Fog
+    uniqueID: 2359028769
+    locked: 0

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ba5a2bc16478950499a764020022ca93
+  - enabled: 1
+    path: Assets/Scenes/MovmentTutorial.unity
+    guid: 0d42ad679ec8bf44ebc92121893cb6ab
+  - enabled: 1
+    path: Assets/Scenes/TimeShiftTutorial.unity
+    guid: 9bf2e66dfe5ae924aad8aa6fb033bb4b
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: cda8cbed7a790bd43a9a5ffe4a2527cb
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 605b6be83d8afd74e8c8b940313aac39
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 6198aafae9861a040b3b329aeb372ab0
+  - enabled: 1
+    path: Assets/Scenes/FinishLevel.unity
+    guid: 3f0883eda06e67f4c80963f34d0c2614
+  - enabled: 1
+    path: Assets/Scenes/ThxForPlaying.unity
+    guid: 7bc0129e4e8c90441853c49db0f28ad6
+  m_configObjects: {}
